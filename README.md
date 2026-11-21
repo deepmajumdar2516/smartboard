@@ -4,6 +4,9 @@ SmartNote is a modern, responsive digital study notebook and whiteboard applicat
 
 ---
 
+
+# Live Link - https://deepmajumdar2516.github.io/smartboard/
+
 ## 🚀 Key Features
 
 ### 1. Realistic A4 Digital Paper Workspace
